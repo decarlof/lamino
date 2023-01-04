@@ -33,6 +33,13 @@ Airbearing stack
 .. _driver_0004: https://www.smaract.com/en/control-systems-and-software/product/mcs2
 .. _driver_0006: https://www.newport.com/p/ESP301-3N
 
+
+.. image:: ../img/AirStack.jpg
+   :width: 600px
+   :align: center
+   :alt: stack
+
+
 +-------------------+---------------------------+------------------+----------------------------------------------------+---------------------------------+
 | Descriptiom       | Model                     |      Image       |                   Driver                           |   Links                         | 
 +-------------------+---------------------------+------------------+----------------------------------------------------+---------------------------------+
@@ -89,3 +96,5 @@ Airbearing stack
 .. |00010| image:: ../img/Deming_01.png
     :width: 20pt
     :height: 20pt
+
+
